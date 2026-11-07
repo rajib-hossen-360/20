@@ -165,8 +165,8 @@ export default function Header({
           <Link href="/" className="shrink-0 flex items-center">
             <div className="bg-white px-2.5 sm:px-3 py-1 sm:py-1.5 rounded-lg shadow-sm hover:shadow transition-all flex items-center">
               <img
-                src="/webnivo.png"
-                alt="Webnibo"
+                src="/webkyro-full-logo-transparent.png"
+                alt="Webkyro"
                 width={170}
                 height={55}
                 className="h-7 sm:h-9 md:h-10 w-auto object-contain"
@@ -657,8 +657,8 @@ export default function Header({
                 <div className="flex items-center justify-between mb-4">
                   <div className="bg-white px-2.5 py-1 rounded-md shadow-sm flex items-center">
                     <img
-                      src="/webnivo.png"
-                      alt="Webnibo"
+                      src="/webkyro-full-logo-transparent.png"
+                      alt="Webkyro"
                       className="h-7 w-auto object-contain"
                     />
                   </div>
