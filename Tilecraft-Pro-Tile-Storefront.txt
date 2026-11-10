@@ -1,0 +1,13 @@
+PRODUCT NAME: Tilecraft Pro Tile Storefront
+CATEGORY: E-commerce / Home Improvement & Building Materials
+PRICE (USD): $59
+COMPARE-AT PRICE (USD): $89
+RATING: 0
+REVIEW COUNT: 0
+CARD TAG: Featured
+DESCRIPTION: A conversion-focused tile and flooring storefront featuring curated collections, detailed product discovery, and practical project-planning tools. Showcase wall, floor, wood-effect, marble-effect, and outdoor tiles with interactive shopping and sample-book experiences.
+HERO TAGLINE: Find the Perfect Tile. Plan with Confidence.
+TECHNOLOGIES: Next.js, React, TypeScript, Tailwind CSS
+INCLUDED PAGES: Home, Product Catalog, Wall Tiles
+FEATURES: Responsive storefront design, Auto-playing promotional hero slider, Search suggestions and mega-menu navigation, Category-based product browsing, Filters for colour finish material and price, Stock filtering and product sorting, Grid and list catalog views, Product quick-view modal, Tile area and box calculator, Shopping trolley drawer with quantity controls, Free cut-sample book for up to three samples, Trade account and contact modals, Customer review carousel, Inspiration gallery with detail modal, Newsletter signup interface
+INCLUDED WITH YOUR PURCHASE: Three ready-to-use storefront page routes, 24 catalog product records plus dedicated wall-tile showcase data, Reusable navigation catalog and shopping interface components, Logo favicon and responsive app icon assets
